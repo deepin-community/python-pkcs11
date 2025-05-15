@@ -1,0 +1,9 @@
+Document: python-pkcs11
+Title: python-pkcs11 manual
+Author: Danielle Madeley
+Abstract: This manual describes the Python python-pkcs11 module.
+Section: Programming/Python
+
+Format: HTML
+Index: /usr/share/doc/python3-pkcs11/html/index.html
+Files: /usr/share/doc/python3-pkcs11/html/*

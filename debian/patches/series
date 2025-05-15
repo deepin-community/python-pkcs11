@@ -1,0 +1,8 @@
+# imported from Alpine Linux's packaging, with gratitude to Henrik Riomar:
+# https://gitlab.alpinelinux.org/alpine/aports/-/tree/master/community/py3-pkcs11
+#
+# Also see upstream PRs #142, #143
+0001-test_x509-add-tzinfo-to-not_before-and-not_after-dat.patch
+0002-KeyType.EC_EDWARDS-in-test_sign_eddsa.patch
+0003-test_generate_params-use-size-1024.patch
+0004-tests-test_x509.py-disable-openssl-verify-test.patch

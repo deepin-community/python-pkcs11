@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+python-pkcs11 (0.7.0-1) unstable; urgency=medium
 
-  * Initial release
+  * Initial release. (Closes: #1032143)
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Faidon Liambotis <paravoid@debian.org>  Wed, 01 Mar 2023 03:01:03 +0200
