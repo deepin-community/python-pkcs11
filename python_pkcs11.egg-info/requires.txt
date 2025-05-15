@@ -1,0 +1,5 @@
+asn1crypto
+cached-property
+
+[:python_version < "3.6"]
+aenum

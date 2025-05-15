@@ -1,0 +1,6 @@
+# Cython artifacts (C source and binary)
+pkcs11/_pkcs11.c
+pkcs11/_pkcs11.*.so
+
+# generated egg
+python_pkcs11.egg-info/

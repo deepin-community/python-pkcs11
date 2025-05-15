@@ -1,0 +1,11 @@
+Cython
+setuptools_scm
+
+# Used for tests
+oscrypto
+cryptography
+
+sphinx
+sphinx-rtd-theme
+
+flake8
